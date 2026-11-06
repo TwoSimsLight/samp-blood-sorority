@@ -1,0 +1,2 @@
+AddCharModel(33, 20001, "SCREAM.dff", "SCREAM.txd");
+AddCharModel(33, 20002, "CHOPTOP.dff", "CHOPTOP.txd");
