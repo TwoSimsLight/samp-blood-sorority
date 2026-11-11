@@ -1,0 +1,5 @@
+AddCharModel(33, 20001, "SCREAM.dff", "SCREAM.txd");
+AddCharModel(33, 20002, "CHOPTOP.dff", "CHOPTOP.txd");
+AddCharModel(56, 20003, "BROOKEskin.dff", "BROOKEskin.txd");
+AddCharModel(56, 20004, "SOPHIA1.dff", "SOPHIA1.txd");
+AddCharModel(56, 20005, "SOPHIA2.dff", "SOPHIA2.txd");
