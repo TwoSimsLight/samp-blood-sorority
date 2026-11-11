@@ -3,3 +3,6 @@ AddCharModel(33, 20002, "CHOPTOP.dff", "CHOPTOP.txd");
 AddCharModel(56, 20003, "BROOKEskin.dff", "BROOKEskin.txd");
 AddCharModel(56, 20004, "SOPHIA1.dff", "SOPHIA1.txd");
 AddCharModel(56, 20005, "SOPHIA2.dff", "SOPHIA2.txd");
+AddCharModel(193, 20006, "CINDY1.dff", "CINDY1.txd");
+AddCharModel(193, 20007, "CINDY2.dff", "CINDY2.txd");
+AddCharModel(56, 20008, "BROOKE2.dff", "BROOKE2.txd");
