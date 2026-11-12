@@ -6,3 +6,5 @@ AddCharModel(56, 20005, "SOPHIA2.dff", "SOPHIA2.txd");
 AddCharModel(193, 20006, "CINDY1.dff", "CINDY1.txd");
 AddCharModel(193, 20007, "CINDY2.dff", "CINDY2.txd");
 AddCharModel(56, 20008, "BROOKE2.dff", "BROOKE2.txd");
+AddCharModel(193, 20009, "BLACKCAT.dff", "BLACKCAT.txd");
+AddCharModel(193, 20010, "WHITERAT.dff", "WHITERAT.txd");
